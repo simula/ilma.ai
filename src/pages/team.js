@@ -70,10 +70,6 @@ export default function Team() {
                                 </a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+47480317838">+47 480 31 7838</a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a href="https://www.simula.no/people/michael" target="_blank" rel="noreferrer">Simula directory</a>
                             </div>
