@@ -1,9 +1,16 @@
+import Image from 'next/image'
 export default function Research() {
     return (
         <>
             <section>
                 <div className="flex justify-center">
-                    <img src="images/team.jpg" alt="research team" />
+                    <Image
+                        width={674}
+                        height={337}
+                        h
+                        src="/images/team.jpg"
+                        alt="research team"
+                    />
                 </div>
                 <h1 className="my-4 text-3xl font-bold">Publications</h1>
             </section>
@@ -70,13 +77,13 @@ export default function Research() {
                     proposed architecture and the performance of the developed
                     child avatar prototype, and we present the results from the
                     user study conducted with CPS personnel. The user study
-                    investigates the users`&apos; perceived quality of experience
-                    (QoE) and their learning effects. Our study confirms that
-                    such a gaming system can increase the knowledge and skills
-                    of the users. We also benchmark and discuss the system
-                    performance aspects of the child avatar. Our results show
-                    that the proposed prototype works well in practice and is
-                    well received by the interview experts.
+                    investigates the users&apos; perceived quality of
+                    experience (QoE) and their learning effects. Our study
+                    confirms that such a gaming system can increase the
+                    knowledge and skills of the users. We also benchmark and
+                    discuss the system performance aspects of the child avatar.
+                    Our results show that the proposed prototype works well in
+                    practice and is well received by the interview experts.
                 </p>
 
                 <p className="my-3">
@@ -165,8 +172,8 @@ export default function Research() {
                 </p>
                 <p className="my-3">
                     The success of investigative interviews with maltreated
-                    children is often defined by the interviewer&apos;s ability to
-                    elicit a reliable and coherent account of the alleged
+                    children is often defined by the interviewer&apos;s ability
+                    to elicit a reliable and coherent account of the alleged
                     incident from the child. Research shows that a child avatar
                     mimicking a maltreated child can improve interviewers&apos;
                     performance in conducting these interviews. The realism of

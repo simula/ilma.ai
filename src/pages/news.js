@@ -1,9 +1,16 @@
+import Image from 'next/image'
 export default function News() {
     return (
         <>
             <section>
                 <div className="flex justify-center">
-                    <img src="images/team.jpg" alt="research team" />
+                    <Image
+                        width={674}
+                        height={337}
+                        h
+                        src="/images/team.jpg"
+                        alt="research team"
+                    />
                 </div>
                 <h1 className="my-4 text-3xl font-bold">News articles</h1>
             </section>
@@ -18,9 +25,9 @@ export default function News() {
                 </p>
 
                 <p className="my-3">
-                    &quot;Criminal psychologists and computer scientists are using
-                    virtual avatars to train people how to interview vulnerable
-                    children.&quot;
+                    &quot;Criminal psychologists and computer scientists are
+                    using virtual avatars to train people how to interview
+                    vulnerable children.&quot;
                 </p>
                 <p className="my-3">&nbsp;</p>
 
@@ -33,9 +40,9 @@ export default function News() {
                     </h2>
                 </p>
                 <p className="my-3">
-                    &quot;Kunstig intelligens tas i bruk når forskere og eksperter på
-                    barneavhør utvikler nye øvingsmetoder for politiet og
-                    barnevernet.&quot;
+                    &quot;Kunstig intelligens tas i bruk når forskere og
+                    eksperter på barneavhør utvikler nye øvingsmetoder for
+                    politiet og barnevernet.&quot;
                 </p>
                 <p className="my-3">&nbsp;</p>
 
@@ -61,10 +68,10 @@ export default function News() {
                 </p>
 
                 <p className="my-3">
-                    &quot;Kvaliteten på avhøyr av overgrepsutsette barn er framleis
-                    ikkje god nok i Noreg, meiner forskarar. Likevel vil ikkje
-                    politiet vere med på å utvikle ny teknologi som kan gjere
-                    dei verdsleiande i avhøyrsteknikk.&quot;
+                    &quot;Kvaliteten på avhøyr av overgrepsutsette barn er
+                    framleis ikkje god nok i Noreg, meiner forskarar. Likevel
+                    vil ikkje politiet vere med på å utvikle ny teknologi som
+                    kan gjere dei verdsleiande i avhøyrsteknikk.&quot;
                 </p>
             </section>
         </>

@@ -1,9 +1,17 @@
+import Image from 'next/image'
+
 export default function Home() {
     return (
         <>
             <section>
                 <div className="flex justify-center">
-                    <img src="images/team.jpg" alt="research team" />
+                    <Image
+                        width={674}
+                        height={337}
+                        h
+                        src="/images/team.jpg"
+                        alt="research team"
+                    />
                 </div>
                 <h1 className="my-4 text-3xl font-bold">
                     Professionals interviewing maltreated children supported via
