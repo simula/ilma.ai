@@ -36,7 +36,7 @@ export default function Layout({ children }, props) {
             <main className="m-5 max-w-[800px] flex-1 text-lg">{children}</main>
             <footer className="flex w-full flex-col items-center bg-gradient-to-b from-[#ff8100] to-[#ffdc00] py-4">
                 <div className="flex w-[300px] items-center justify-around">
-                    <Link href="">
+                    <Link href="https://www.oslomet.no/">
                         <a>
                             <img
                                 className="w-[100px]"
@@ -45,7 +45,7 @@ export default function Layout({ children }, props) {
                             />
                         </a>
                     </Link>
-                    <Link href="">
+                    <Link href="https://www.simulamet.no/">
                         <a>
                             <img
                                 className="w-[100px]"
