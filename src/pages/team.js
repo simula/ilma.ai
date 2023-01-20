@@ -17,7 +17,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
                                 Gunn Astrid Baugerud
                             </h3>
@@ -54,7 +54,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
                                 Michael Riegler
                             </h3>
@@ -89,9 +89,9 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
-                                Miriam Sinkerud Johnson
+                                Miriam Johnson
                             </h3>
                             <h4>Associate Professor</h4>
                         </div>
@@ -122,7 +122,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">Pål Halvorsen</h3>
                             <h4>Professor</h4>
                         </div>
@@ -157,9 +157,9 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
-                                Ragnhild Klingenberg Røed
+                                Ragnhild Røed
                             </h3>
                             <h4>PhD Candidate</h4>
                         </div>
@@ -194,7 +194,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
                                 Lars Sokrates Anvil
                             </h3>
@@ -231,9 +231,9 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
-                                Catharina Sofie Rodenburg Drejer
+                                Catharina Drejer
                             </h3>
                             <h4>PhD Student</h4>
                         </div>
@@ -268,7 +268,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
                                 Syed Zohaib Hassan
                             </h3>
@@ -305,7 +305,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
                                 Martine Powell
                             </h3>
@@ -342,7 +342,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">
                                 Saeed Shafiee Sabet
                             </h3>
@@ -377,7 +377,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">Ingvild Olimb</h3>
                             <h4>Research Assistant</h4>
                         </div>
@@ -410,7 +410,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">Michael Lamb</h3>
                             <h4>Psychologist</h4>
                         </div>
@@ -422,7 +422,7 @@ export default function Team() {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Google Scholar
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -439,7 +439,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">Pegah Salehi</h3>
                             <h4>PhD Student</h4>
                         </div>
@@ -472,7 +472,7 @@ export default function Team() {
                         />
                     </div>
                     <div>
-                        <div className="mb-4 h-[75px]">
+                        <div className="h-[55px]">
                             <h3 className="text-xl font-bold">Pegah Salehi</h3>
                             <h4>PhD Student</h4>
                         </div>
