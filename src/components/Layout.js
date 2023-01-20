@@ -9,25 +9,23 @@ export default function Layout({ children }, props) {
                     <nav className="flex w-full flex-col items-center justify-center p-4 sm:flex-row sm:justify-between">
                         <div className="hover:text-[#007acc]">
                             <Link href="/">
-                                <a>
-                                    <h1 className="text-3xl font-bold">Ilma</h1>
-                                </a>
+                                <h1 className="text-3xl font-bold">Ilma</h1>
                             </Link>
                         </div>
                         <ul className="mt-2 flex sm:mt-0">
                             <li className="mx-3 hover:text-[#007acc]">
                                 <Link href="/team">
-                                    <a>Team</a>
+                                    Team
                                 </Link>
                             </li>
                             <li className="mx-3 hover:text-[#007acc]">
                                 <Link href="/research">
-                                    <a>Research</a>
+                                    Research
                                 </Link>
                             </li>
                             <li className="mx-3 hover:text-[#007acc]">
                                 <Link href="/news">
-                                    <a>News</a>
+                                    News
                                 </Link>
                             </li>
                         </ul>
@@ -38,26 +36,22 @@ export default function Layout({ children }, props) {
             <footer className="flex w-full flex-col items-center bg-gradient-to-b from-[#ff8100] to-[#ffdc00] py-4">
                 <div className="flex w-[300px] items-center justify-around">
                     <Link href="https://www.oslomet.no/">
-                        <a>
-                            <Image
-                                width={100}
-                                height={70}
-                                className="w-[100px]"
-                                src="/images/logo.png"
-                                alt="Oslo-met logo"
-                            />
-                        </a>
+                        <Image
+                            width={100}
+                            height={70}
+                            className="w-[100px]"
+                            src="/images/logo.png"
+                            alt="Oslo-met logo"
+                        />
                     </Link>
                     <Link href="https://www.simulamet.no/">
-                        <a>
-                            <Image
-                                width={100}
-                                height={25}
-                                className="w-[100px]"
-                                src="/images/simula-logo.png"
-                                alt="simula-logo"
-                            />
-                        </a>
+                        <Image
+                            width={100}
+                            height={25}
+                            className="w-[100px]"
+                            src="/images/simula-logo.png"
+                            alt="simula-logo"
+                        />
                     </Link>
                 </div>
                 <div>

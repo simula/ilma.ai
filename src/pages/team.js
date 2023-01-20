@@ -31,21 +31,13 @@ export default function Team() {
                                 </a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+47480317838">+47 480 31 7838</a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+4767238398">+47 67 23 83 98 </a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a
                                     href="https://www.oslomet.no/en/about/employee/gunnba/"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Oslo MET directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -56,7 +48,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/michaelr.jpg"
                             alt="Jane"
                         />
@@ -80,7 +72,7 @@ export default function Team() {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Simula directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -91,7 +83,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/mirsin.jpg"
                             alt="Jane"
                         />
@@ -111,13 +103,9 @@ export default function Team() {
                                 </a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+4767236040">+47 67 23 60 40 </a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a href="https://www.oslomet.no/en/about/employee/mirsin/">
-                                    Oslo MET directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -128,7 +116,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/palh.jpg"
                             alt="Jane"
                         />
@@ -146,17 +134,13 @@ export default function Team() {
                                 </a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+4797080007">+47 970 80 007</a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a
                                     href="https://www.oslomet.no/en/about/employee/palh/"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Oslo MET directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -167,7 +151,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/rar.jpg"
                             alt="Jane"
                         />
@@ -187,21 +171,13 @@ export default function Team() {
                                 </a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+4741421366">+47 414 21 366</a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+4767235488">+47 67 23 54 88 </a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a
                                     href="https://www.oslomet.no/en/about/employee/rar/"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Oslo MET directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -212,7 +188,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/lars.jpg"
                             alt="Jane"
                         />
@@ -232,17 +208,13 @@ export default function Team() {
                                 </a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+4767236958">+47 67 23 69 58</a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a
                                     href="https://www.oslomet.no/en/about/employee/larssokr/"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Oslo MET directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -253,7 +225,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/cathrina.jpg"
                             alt="Jane"
                         />
@@ -279,7 +251,7 @@ export default function Team() {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Oslo MET directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -290,7 +262,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/profile-default-image_2.png"
                             alt="Jane"
                         />
@@ -316,7 +288,7 @@ export default function Team() {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Simula directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -327,7 +299,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/martine.jpg"
                             alt="Jane"
                         />
@@ -347,19 +319,13 @@ export default function Team() {
                                 </a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+61(0)737355917 ">
-                                    +61 (0)7 3735 5917{' '}
-                                </a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a
                                     href="https://experts.griffith.edu.au/18876-martine-powell"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Griffith University directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -370,7 +336,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/saeed.jpg"
                             alt="Jane"
                         />
@@ -394,7 +360,7 @@ export default function Team() {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Simula directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -405,7 +371,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/ingvild.jpg"
                             alt="Jane"
                         />
@@ -421,17 +387,13 @@ export default function Team() {
                                 <a href="mailto:s360593@oslomet.no">Email me</a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="+4767236158">+47 67 23 69 44</a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a
                                     href="https://www.oslomet.no/om/ansatt/tinyking/"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    OsloMET directory
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -442,7 +404,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/michaell.jpg"
                             alt="Jane"
                         />
@@ -471,7 +433,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/pegah.png"
                             alt="Jane"
                         />
@@ -487,17 +449,13 @@ export default function Team() {
                                 <a href="mailto:pegah@simula.no">Email me</a>
                             </div>
                             <div className="my-2 flex w-full items-center">
-                                <FaPhoneAlt className="mr-2" />
-                                <a href="tel:+4792097694">+47 920 97 694</a>
-                            </div>
-                            <div className="my-2 flex w-full items-center">
                                 <FaLandmark className="mr-2" />
                                 <a
                                     href="https://scholar.google.com/citations?user=0Y4lkuwAAAAJ&hl=en/"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    Google Scholar
+                                    Website
                                 </a>
                             </div>
                         </address>
@@ -508,7 +466,7 @@ export default function Team() {
                         <Image
                             width={192}
                             height={192}
-                            className="rounded-xl object-cover"
+                            className="rounded-xl object-cover h-[192px] w-[192px]"
                             src="/images/hay.jpg"
                             alt="Jane"
                         />
@@ -532,7 +490,7 @@ export default function Team() {
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    OsloMET directory
+                                    Website
                                 </a>
                             </div>
                         </address>
