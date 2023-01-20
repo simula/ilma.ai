@@ -8,7 +8,7 @@ export default function News() {
                         width={674}
                         height={337}
                         h
-                        src="/images/team.jpg"
+                        src="/images/team2.jpg"
                         alt="research team"
                     />
                 </div>
