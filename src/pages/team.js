@@ -198,7 +198,7 @@ export default function Team() {
                             <h3 className="text-xl font-bold">
                                 Lars Sokrates Anvil
                             </h3>
-                            <h4>Research Assistant</h4>
+                            <h4>Researcher</h4>
                         </div>
                         <address>
                             <div className="my-2 flex w-full items-center">
@@ -473,7 +473,7 @@ export default function Team() {
                     </div>
                     <div>
                         <div className="h-[55px]">
-                            <h3 className="text-xl font-bold">Pegah Salehi</h3>
+                            <h3 className="text-xl font-bold">Hayley Manalang Ko</h3>
                             <h4>PhD Student</h4>
                         </div>
                         <address>
