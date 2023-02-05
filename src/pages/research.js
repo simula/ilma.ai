@@ -18,6 +18,27 @@ export default function Research() {
             <section>
                 <p className="my-3">
                     <h2 className="text-2xl font-bold">
+                        <a href="http://dx.doi.org/10.1109/QoMEX55416.2022.9900900">
+                            Comparison of Crowdsourced and Remote Subjective User Studies: A Case Study of Investigative Child Interviews
+                        </a>
+                    </h2>
+                </p>
+                <p className="my-3">
+                    Crowdsourced and remote user studies have recently gained popularity as alternatives to traditional laboratory studies. 
+                    However, they are subject to unreliability, and it is challenging to ensure that valid results are collected, especially when 
+                    conducting user studies with experts. Experts are a sparse resource, usually having busy schedules and heavy workloads, and are not
+                    necessarily geographically close. They are therefore often unwilling to participate in studies which require physical attendance. 
+                    In this paper, we compare three alternative methods: crowd sourced user study with non-experts, remote user study with non-experts, 
+                        and remote user study with domain experts, for a use case involving investigative child interview training. 
+                    We present the results from three subjective studies about the perception of AI-generated child avatars, which is 
+                    developed using various technologies such as dialogue models, game engine, text-to-speech and speech-to-text components. The study was 
+                    conducted with three different user groups, and our results indicate the importance of using best practice measures for ensuring the 
+                    collection of reliable results in crowdsourced settings as compared to remote studies, and highlight the difference between the 
+                    perspectives of domain experts and non-experts.
+                </p>
+
+  <p className="my-3">
+                    <h2 className="text-2xl font-bold">
                         <a href="https://doi.org/10.1145/3463944.3469269">
                             Multimodal Virtual Avatars for Investigative
                             Interviews with Children
