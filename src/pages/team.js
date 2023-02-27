@@ -277,7 +277,7 @@ export default function Team() {
                         <address>
                             <div className="my-2 flex w-full items-center">
                                 <FaEnvelope className="mr-2" />
-                                <a href="mailto:catharina.drejer@oslomet.no">
+                                <a href="mailto:syed@simula.no">
                                     Email me
                                 </a>
                             </div>
