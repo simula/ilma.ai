@@ -20,6 +20,10 @@ export default function Home() {
             </section>
 
             <section>
+                <p><span style="font-family:Verdana, Geneva, sans-serif; font-size:medium">For the ilma project&#39;s new website, please visit <a href="https://www.ilma.no" target="_self">ilma.no</a></span></p>
+            </section>
+
+            <section>
                 <p className="my-3">
                     The project proposes to develop a new digital
                     interview-training program drawing on expertise in
